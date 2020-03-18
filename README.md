@@ -14,6 +14,9 @@ _This project demonstrates basic HTML elements and was used to practice linking 
 * Navigate to index.html file.
 * Right click and open in the browser of your choice.
 
+* Alternatively, view the webpage from this gh-pages link:
+https://jhvozdovich.github.io/resort-website/
+
 
 ## Known Bugs
 
